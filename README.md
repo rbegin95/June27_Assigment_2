@@ -1,5 +1,5 @@
 # Welcome to Bloomix
-Bloomiix is content management system that allows administators to add tokens to the respected user. That merrit these points based on users performances (KPI)
+Bloomix is content management system that allows administators to add tokens to the respected user. That merrit these points based on users performances (KPI)
 
 ---
 
