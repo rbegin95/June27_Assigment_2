@@ -3,6 +3,30 @@ Bloomix is content management system that allows administators to add tokens to 
 
 ---
 
+## Installation
+
+```git clone https://github.com/your-username/your-project.git```
+```cd your-project```
+
+Make sure you install the dependencies.
+
+```composer install```
+
+Copy the Enviroment File 
+
+```cp .env.example .env```
+
+Generate Application Key
+
+```php artisan key:generate```
+
+Start the application
+
+``` npm install```
+```npm run build```
+
+---
+
 ## Features (Front End)
 
 - Authentication
